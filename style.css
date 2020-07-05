@@ -1,0 +1,20 @@
+body{
+    background-image: url("photo.jpg");
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+header{
+    color: white;
+    font: italic;
+}
+div{
+    background-color: white;
+    box-sizing: border-box;
+    width: 400px;
+    height: 300px;
+    padding: 80px;
+    border-radius: 5pt;
+    box-shadow:6px 12px #DC143C ;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
